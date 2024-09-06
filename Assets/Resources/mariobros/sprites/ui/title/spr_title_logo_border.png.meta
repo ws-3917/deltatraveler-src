@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 945dd94c9f0c53343ba6a4076d5a60e1
+timeCreated: 1725639467
+licenseType: Free
+TextureImporter:
+  serializedVersion: 9
+  fileIDToRecycleName:
+    21300000: spr_title_logo_border_0
+    21300002: spr_title_logo_border_1
+    21300004: spr_title_logo_border_2
+    21300006: spr_title_logo_border_3
+    21300008: spr_title_logo_border_4
+    21300010: spr_title_logo_border_5
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_title_logo_border_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 208
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104, y: -32}
+        - {x: -104, y: 32}
+        - {x: 104, y: 32}
+        - {x: 104, y: -32}
+      physicsShape:
+      - - {x: -104, y: -2}
+        - {x: -104, y: -29}
+        - {x: -101, y: -32}
+        - {x: -2, y: -32}
+        - {x: -2, y: -21}
+        - {x: -81, y: -2}
+      - - {x: 79, y: -2}
+        - {x: 2, y: -22}
+        - {x: 2, y: -32}
+        - {x: 101, y: -32}
+        - {x: 104, y: -29}
+        - {x: 104, y: -2}
+      - - {x: -101, y: 32}
+        - {x: -104, y: 29}
+        - {x: -104, y: 2}
+        - {x: -85, y: 2}
+        - {x: -4, y: 22}
+        - {x: -2, y: 24}
+        - {x: -2, y: 32}
+      - - {x: 2, y: 32}
+        - {x: 2, y: 21}
+        - {x: 81, y: 2}
+        - {x: 104, y: 2}
+        - {x: 104, y: 29}
+        - {x: 101, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad5c232914b4bcebc7ae58b46ee2a4c
+      vertices:
+      - {x: 0, y: 64}
+      - {x: 208, y: 64}
+      - {x: 0, y: 0}
+      - {x: 208, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_title_logo_border_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 208
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104, y: -32}
+        - {x: -104, y: 32}
+        - {x: 104, y: 32}
+        - {x: 104, y: -32}
+      physicsShape:
+      - - {x: -104, y: -2}
+        - {x: -104, y: -29}
+        - {x: -101, y: -32}
+        - {x: -2, y: -32}
+        - {x: -2, y: -21}
+        - {x: -81, y: -2}
+      - - {x: 79, y: -2}
+        - {x: 2, y: -22}
+        - {x: 2, y: -32}
+        - {x: 101, y: -32}
+        - {x: 104, y: -29}
+        - {x: 104, y: -2}
+      - - {x: -101, y: 32}
+        - {x: -104, y: 29}
+        - {x: -104, y: 2}
+        - {x: -85, y: 2}
+        - {x: -4, y: 22}
+        - {x: -2, y: 24}
+        - {x: -2, y: 32}
+      - - {x: 2, y: 32}
+        - {x: 2, y: 21}
+        - {x: 81, y: 2}
+        - {x: 104, y: 2}
+        - {x: 104, y: 29}
+        - {x: 101, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200dcc64a9da481aa67f682b26d3c692
+      vertices:
+      - {x: 0, y: 64}
+      - {x: 208, y: 64}
+      - {x: 0, y: 0}
+      - {x: 208, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_title_logo_border_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 208
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104, y: -32}
+        - {x: -104, y: 32}
+        - {x: 104, y: 32}
+        - {x: 104, y: -32}
+      physicsShape:
+      - - {x: -104, y: -2}
+        - {x: -104, y: -29}
+        - {x: -101, y: -32}
+        - {x: -2, y: -32}
+        - {x: -2, y: -21}
+        - {x: -81, y: -2}
+      - - {x: 79, y: -2}
+        - {x: 2, y: -22}
+        - {x: 2, y: -32}
+        - {x: 101, y: -32}
+        - {x: 104, y: -29}
+        - {x: 104, y: -2}
+      - - {x: -101, y: 32}
+        - {x: -104, y: 29}
+        - {x: -104, y: 2}
+        - {x: -85, y: 2}
+        - {x: -4, y: 22}
+        - {x: -2, y: 24}
+        - {x: -2, y: 32}
+      - - {x: 2, y: 32}
+        - {x: 2, y: 21}
+        - {x: 81, y: 2}
+        - {x: 104, y: 2}
+        - {x: 104, y: 29}
+        - {x: 101, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7327fada5d704fc88409e7921759196e
+      vertices:
+      - {x: 0, y: 64}
+      - {x: 208, y: 64}
+      - {x: 0, y: 0}
+      - {x: 208, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_title_logo_border_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 208
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104, y: -32}
+        - {x: -104, y: 32}
+        - {x: 104, y: 32}
+        - {x: 104, y: -32}
+      physicsShape:
+      - - {x: -104, y: -2}
+        - {x: -104, y: -29}
+        - {x: -101, y: -32}
+        - {x: -2, y: -32}
+        - {x: -2, y: -21}
+        - {x: -81, y: -2}
+      - - {x: 79, y: -2}
+        - {x: 2, y: -22}
+        - {x: 2, y: -32}
+        - {x: 101, y: -32}
+        - {x: 104, y: -29}
+        - {x: 104, y: -2}
+      - - {x: -101, y: 32}
+        - {x: -104, y: 29}
+        - {x: -104, y: 2}
+        - {x: -85, y: 2}
+        - {x: -4, y: 22}
+        - {x: -2, y: 24}
+        - {x: -2, y: 32}
+      - - {x: 2, y: 32}
+        - {x: 2, y: 21}
+        - {x: 81, y: 2}
+        - {x: 104, y: 2}
+        - {x: 104, y: 29}
+        - {x: 101, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cc748e6f7f4a22b9e7e12438393076
+      vertices:
+      - {x: 0, y: 64}
+      - {x: 208, y: 64}
+      - {x: 0, y: 0}
+      - {x: 208, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_title_logo_border_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 208
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104, y: -32}
+        - {x: -104, y: 32}
+        - {x: 104, y: 32}
+        - {x: 104, y: -32}
+      physicsShape:
+      - - {x: -104, y: -2}
+        - {x: -104, y: -29}
+        - {x: -101, y: -32}
+        - {x: -2, y: -32}
+        - {x: -2, y: -21}
+        - {x: -81, y: -2}
+      - - {x: 79, y: -2}
+        - {x: 2, y: -22}
+        - {x: 2, y: -32}
+        - {x: 101, y: -32}
+        - {x: 104, y: -29}
+        - {x: 104, y: -2}
+      - - {x: -101, y: 32}
+        - {x: -104, y: 29}
+        - {x: -104, y: 2}
+        - {x: -85, y: 2}
+        - {x: -4, y: 22}
+        - {x: -2, y: 24}
+        - {x: -2, y: 32}
+      - - {x: 2, y: 32}
+        - {x: 2, y: 21}
+        - {x: 81, y: 2}
+        - {x: 104, y: 2}
+        - {x: 104, y: 29}
+        - {x: 101, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbea3808fda244e1b5f3922ebc2d7623
+      vertices:
+      - {x: 0, y: 64}
+      - {x: 208, y: 64}
+      - {x: 0, y: 0}
+      - {x: 208, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_title_logo_border_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 208
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104, y: -32}
+        - {x: -104, y: 32}
+        - {x: 104, y: 32}
+        - {x: 104, y: -32}
+      physicsShape:
+      - - {x: -104, y: -2}
+        - {x: -104, y: -29}
+        - {x: -101, y: -32}
+        - {x: -2, y: -32}
+        - {x: -2, y: -21}
+        - {x: -81, y: -2}
+      - - {x: 79, y: -2}
+        - {x: 2, y: -22}
+        - {x: 2, y: -32}
+        - {x: 101, y: -32}
+        - {x: 104, y: -29}
+        - {x: 104, y: -2}
+      - - {x: -101, y: 32}
+        - {x: -104, y: 29}
+        - {x: -104, y: 2}
+        - {x: -85, y: 2}
+        - {x: -4, y: 22}
+        - {x: -2, y: 24}
+        - {x: -2, y: 32}
+      - - {x: 2, y: 32}
+        - {x: 2, y: 21}
+        - {x: 81, y: 2}
+        - {x: 104, y: 2}
+        - {x: 104, y: 29}
+        - {x: 101, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a353669220ed461b96ea56f7182e8ec3
+      vertices:
+      - {x: 0, y: 64}
+      - {x: 208, y: 64}
+      - {x: 0, y: 0}
+      - {x: 208, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+  spritePackingTag:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

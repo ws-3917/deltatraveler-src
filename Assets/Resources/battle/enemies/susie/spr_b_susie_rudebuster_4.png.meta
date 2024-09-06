@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 3db6b9ee432a1d646b6fef6bc37e6475
+timeCreated: 1725639463
+licenseType: Free
+TextureImporter:
+  serializedVersion: 9
+  fileIDToRecycleName: {}
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5093241, y: -0.12431361}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: 23.024689, y: -64.48772}
+      - {x: -54.97531, y: -64.48772}
+      - {x: -54.97531, y: 64.51228}
+      - {x: 55.02469, y: 64.51228}
+      - {x: 55.02469, y: -4.4877167}
+    physicsShape:
+    - - {x: 35.02469, y: 5.5122833}
+      - {x: 34.02469, y: 17.512283}
+      - {x: 21.024689, y: 29.512283}
+      - {x: 2.0246887, y: 28.512291}
+      - {x: 23.024689, y: 42.512283}
+      - {x: 43.02469, y: 39.512283}
+      - {x: 47.02469, y: 28.512291}
+      - {x: 54.024693, y: 25.512291}
+      - {x: 55.02469, y: 29.512283}
+      - {x: 55.02469, y: 43.51229}
+      - {x: 44.02469, y: 55.512283}
+      - {x: 27.024689, y: 64.51228}
+      - {x: 7.0246887, y: 64.51228}
+      - {x: -5.9753118, y: 63.512283}
+      - {x: -33.97531, y: 39.512283}
+      - {x: -29.975313, y: 31.512291}
+      - {x: -17.975311, y: 24.512283}
+      - {x: -28.975311, y: 16.512291}
+      - {x: -30.975311, y: 14.512283}
+      - {x: -32.97531, y: 5.5122833}
+      - {x: -22.975311, y: -9.487717}
+      - {x: -35.97531, y: -10.487717}
+      - {x: -50.97531, y: -17.487717}
+      - {x: -54.975315, y: -22.487717}
+      - {x: -54.975315, y: -33.487717}
+      - {x: -46.97531, y: -43.487717}
+      - {x: -32.97531, y: -46.487717}
+      - {x: -24.975311, y: -47.487717}
+      - {x: -11.975311, y: -64.48772}
+      - {x: 2.0246887, y: -64.48772}
+      - {x: 17.024689, y: -47.487717}
+      - {x: 19.024689, y: -15.487717}
+      - {x: 26.02469, y: -11.487717}
+    bones: []
+    spriteID: 4624751c05df4424b516a0018a35120d
+    vertices:
+    - {x: 108.94856, y: 209.46097}
+    - {x: 76.94856, y: 80.46097}
+    - {x: 108.94856, y: 140.46097}
+    - {x: -1.0514374, y: 209.46097}
+    - {x: -1.0514374, y: 80.46097}
+    indices:
+    - 4
+    - 3
+    - 1
+    - 0
+    - 1
+    - 3
+    - 2
+    - 1
+    - 0
+    edges: []
+    weights: []
+  spritePackingTag:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

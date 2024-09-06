@@ -1,0 +1,1139 @@
+fileFormatVersion: 2
+guid: 99576bf2491f2e5439941bdddc64d15f
+timeCreated: 1725639466
+licenseType: Free
+TextureImporter:
+  serializedVersion: 9
+  fileIDToRecycleName:
+    21300000: spr_susie_big_0
+    21300002: spr_susie_big_1
+    21300004: spr_susie_big_2
+    21300006: spr_susie_big_3
+    21300008: spr_susie_big_4
+    21300010: spr_susie_big_5
+    21300012: spr_susie_big_6
+    21300014: spr_susie_big_7
+    21300016: spr_susie_big_8
+    21300018: spr_susie_big_9
+    21300020: spr_susie_big_10
+    21300022: spr_susie_big_11
+    21300024: spr_susie_big_12
+    21300026: spr_susie_big_13
+    21300028: spr_susie_big_14
+    21300030: spr_susie_big_15
+    21300032: spr_susie_big_16
+    21300034: spr_susie_big_17
+    21300036: spr_susie_big_18
+    21300038: spr_susie_big_19
+    21300040: spr_susie_big_20
+    21300042: spr_susie_big_21
+    21300044: spr_susie_big_22
+    21300046: spr_susie_big_23
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_susie_big_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 14}
+        - {x: -11, y: -8}
+        - {x: -10, y: -11}
+        - {x: -4, y: -16}
+        - {x: 9, y: -16}
+        - {x: 11, y: -13}
+        - {x: 11, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802c65ed5e744e738fd8322b55f39242
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 11}
+        - {x: -11, y: -10}
+        - {x: -10, y: -14}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca1e9ca2b1d4479a13e810b8faca406
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -11, y: 12.000002}
+        - {x: -11, y: -5}
+        - {x: -9, y: -15}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -15}
+        - {x: 12, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cdc9ab20a04736b09c7f6f5fc4a4ff
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -5, y: 16}
+        - {x: -11, y: 13}
+        - {x: -11, y: -10}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -8}
+        - {x: 11, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f61abe9c96401ebd6d3e8446a360cb
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 13}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -15}
+        - {x: 13, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8961410b25a942fcb6416af4f35d3b75
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 5}
+        - {x: -8, y: 5}
+        - {x: -12, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d0f0127ee4420b83ec958814352ceb
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 8}
+        - {x: -11, y: -11}
+        - {x: -3, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 5}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6f814320be4afeba4d9f26d4224132
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 13}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f61fd49446e4b9eb6a06fc2c64635f5
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -5, y: 16}
+        - {x: -14.000001, y: 7}
+        - {x: -14.000001, y: 2}
+        - {x: -5, y: -16}
+        - {x: 8, y: -16}
+        - {x: 16, y: 1}
+        - {x: 16, y: 12.000002}
+        - {x: 13, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f15dd81239448d0b84c0bc2011ebd8b
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -5, y: 16}
+        - {x: -14.000001, y: 11}
+        - {x: -14.000001, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: -3}
+        - {x: 9, y: 12.000002}
+        - {x: 4, y: 15.000002}
+        - {x: 0, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ff97d6f9e241c38a968fa96939412f
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -7.0000005, y: 16}
+        - {x: -15, y: 3}
+        - {x: -15, y: -8}
+        - {x: -5, y: -12}
+        - {x: 11, y: -12}
+        - {x: 16, y: -7}
+        - {x: 16, y: 8}
+        - {x: 10, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cb2ce24df94141a060343dbc151cd2
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -3, y: 16}
+        - {x: -12, y: 11}
+        - {x: -13, y: -1}
+        - {x: -13, y: -6}
+        - {x: -5, y: -16}
+        - {x: 7.0000005, y: -16}
+        - {x: 15, y: -7}
+        - {x: 15, y: 1}
+        - {x: 12, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db48840de16c426ca9b415849c52e001
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -4, y: 16}
+        - {x: -10, y: 8}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14.000001, y: -1.999999}
+        - {x: 14.000001, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0bb560fd9e4dadad90c19d08db93b8
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: 10, y: 11}
+        - {x: -6, y: 11}
+        - {x: -12, y: 10}
+        - {x: -12, y: -9}
+        - {x: -8, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 9.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46e2a8ac1a942a6ac1b06de12839572
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: 3, y: 14}
+        - {x: 1, y: 14}
+        - {x: -10, y: 8}
+        - {x: -10, y: -15}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 4}
+        - {x: 9, y: 13}
+      - - {x: -6, y: 8}
+        - {x: -3, y: 9.000002}
+        - {x: -3, y: 12.000002}
+        - {x: -6, y: 13}
+        - {x: -8, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc174545cbbe482d96b31455347b0b92
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -9, y: 8}
+        - {x: -12, y: 2}
+        - {x: -12, y: -8}
+        - {x: -10, y: -16}
+        - {x: 5, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 4}
+        - {x: 3, y: 8}
+      - - {x: 2, y: 4}
+        - {x: 5, y: 5}
+        - {x: 5, y: 8}
+        - {x: 2, y: 9.000002}
+        - {x: 0, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f2888540684d4aad8bfef4a246055a
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -2, y: 16}
+        - {x: -11, y: 11}
+        - {x: -11, y: -1.999999}
+        - {x: -5, y: -15}
+        - {x: -4, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -8}
+        - {x: 11, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5b34cbc34848f69f375358a4d45689
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -4, y: 16}
+        - {x: -11, y: 10}
+        - {x: -11, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -13}
+        - {x: 11, y: 13}
+        - {x: 10, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef202f0af4bc4e26a84d64857e2c9570
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -3, y: 16}
+        - {x: -11, y: 12.000002}
+        - {x: -11, y: -4}
+        - {x: -9, y: -15}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -15}
+        - {x: 12, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7140b414fbdf44a2a097a15e4e3141ba
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -2, y: 16}
+        - {x: -11, y: 12.000002}
+        - {x: -11, y: -3}
+        - {x: -8, y: -12}
+        - {x: -7.0000005, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -8}
+        - {x: 11, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5050852737164227b26e8f8a7ca5168e
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -4, y: 16}
+        - {x: -11, y: 11}
+        - {x: -11, y: -15}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -15}
+        - {x: 11, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ed0ef1209e49538d93c5b5c53e1693
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -8, y: 5}
+        - {x: -12, y: 4}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 3}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5338f9bf386745c0ba53a5b4ad42acdc
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 12.000002}
+        - {x: -11, y: -3}
+        - {x: -10, y: -10}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 10}
+        - {x: 7.0000005, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492fbcde33f84cde9b50a6c40cc13848
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_susie_big_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: 12, y: 13}
+        - {x: 6, y: 16}
+        - {x: -7.0000005, y: 16}
+        - {x: -11, y: 15.000002}
+        - {x: -12, y: 10}
+        - {x: -12, y: -5}
+        - {x: -8, y: -16}
+        - {x: 11, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9ecc278f4e4c8a9eeda979027c59aa
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+  spritePackingTag:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

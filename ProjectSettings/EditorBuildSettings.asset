@@ -1,0 +1,404 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroScreen.unity
+    guid: a09e4cb7b90f4ce4994041d4fe065d37
+  - enabled: 1
+    path: Assets/Scenes/ErrorScene.unity
+    guid: 19b8e67d160f760468e4d224b75204a2
+  - enabled: 1
+    path: Assets/Scenes/Battle.unity
+    guid: 3dd9378536e152945be9d329f0db25c9
+  - enabled: 1
+    path: Assets/Scenes/DeathScreen.unity
+    guid: d04ff8cacf05b524f93824b98db4816b
+  - enabled: 1
+    path: Assets/Scenes/Overworld/OW_Test.unity
+    guid: c26a32733f0da514381583c193a9ad57
+  - enabled: 1
+    path: Assets/Scenes/Overworld/OW_Test2.unity
+    guid: 59687a9a0400bba498db6fa3041c5e21
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen/TitleScreen.unity
+    guid: 1029789b1ab4feb498fcc4e5eb980cbf
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_0_Spawn.unity
+    guid: d4db0f6f6d37a984e85f2642581de8de
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_1_FloweyRoom1.unity
+    guid: f12a46ab1a1244f48902689b46a38672
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_2_StairsRoom.unity
+    guid: a8baeecf60c1b7a448623d31c054466e
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_3_Switches.unity
+    guid: 9ffa15f09868b714f85452bd2b420948
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_4_WallSwitchHall.unity
+    guid: 51ac4d17e43f8f44cb93a32014525801
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_5_Dummy.unity
+    guid: ebf9a6e901b7c6c489e5f05a5a0d58f7
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_6_SpikeMaze.unity
+    guid: 7032e38f3771f1b46bb7f59ea7a05c74
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_7_LongHall.unity
+    guid: df11f085e4a343e43832d57711cc954c
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_8_Leaves.unity
+    guid: 5600064965c63534b9ee217d6b360772
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_8a_Candy.unity
+    guid: 369aeee225325fa409ea986fb74bf359
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_9_FallMini.unity
+    guid: e3e12f86534617045bfd330694920051
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_10_Rock.unity
+    guid: 6f48d6d038dcab944a6514f6fcd7816c
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_11_FallMaze.unity
+    guid: ed10a48638a785444adac0491ee21973
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_12_ThreeRocks.unity
+    guid: 2982263038959a74a8b99d72e852cae2
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_13_Cheese.unity
+    guid: d66c312b4d80ad6489ca145916505efb
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_14_Napstablook.unity
+    guid: 093a258021058d443807ab6688dbb0a7
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_14a_Spider.unity
+    guid: 72815fdf7a5e01c4580a25e836c179b0
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_15_Froggit.unity
+    guid: dd505e02ee246ce4898242a6004b32b1
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_16_FallPatches.unity
+    guid: 76cd48af85e3d574dbd1c9ea6b625af1
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_17_SpiralStart.unity
+    guid: 1d214e0cf905b374f95d2bb7edb9e9de
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_18_Spiral1.unity
+    guid: 43a4e8341eed4fe498ce46dc49c40323
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_19_Spiral2.unity
+    guid: 2171877442aee514281a4208bcf544dd
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_20_Spiral3.unity
+    guid: a5c2aae71e55f9e4086b375f3e817c3a
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_17a_SpiralFail.unity
+    guid: 31f7a46010b21674284cd66075f4ed38
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_21_Fork.unity
+    guid: 9c8c47c9cdee93d48b09fd8b84160d6f
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_21a_LoneFroggit.unity
+    guid: 53d489c5e5a553e41b12c8b3cc87219c
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_21b_Knife.unity
+    guid: 4c2896780b0b8594bab9b38afd1247d1
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/TorielHome_Entrance.unity
+    guid: 941db1032687b96488777f6a8cb53427
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/TorielHome_Hallway.unity
+    guid: d6e724822ed7198429e98f89df8303e6
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/TorielHome_ToriRoom.unity
+    guid: d6d692991a038c048b5fb796148d6400
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Ruins_22_HomeEntrance.unity
+    guid: e1f17501f03cc00418c72fd84f5833ae
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/TorielHome_Renovated.unity
+    guid: b84ee71ed027b164bbf8eff0861241cf
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/TorielHome_LivingRoom.unity
+    guid: a46adb46af544bb4bb0d2a68aad07dde
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/TorielHome_Kitchen.unity
+    guid: 2d69b25a311f91c4e829a536d148421b
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/TorielBasement_0.unity
+    guid: 1e61fab2eec709949adaee3e3b379433
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/TorielBasement_1.unity
+    guid: bb55ef00058e80c42bd537fe0ca441dc
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/TorielBasement_2.unity
+    guid: 74d8d93ca6b6c864f80380d58f7b1397
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/TorielBasement_3.unity
+    guid: d7f646c1b7b34194f96e55b68d846313
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/TorielBasement_4.unity
+    guid: 4eaa83f6a9219e04f82a6029dce89555
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/FinalRuins.unity
+    guid: 12453e95f9a3f504ca76b1b09e24a103
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/SnowUT_0.unity
+    guid: b417512914448bb49aa101f567722540
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/SnowUT_1.unity
+    guid: 49378c8562c718d47a9ebf3966a9ba96
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/SnowUT_2.unity
+    guid: 8b0df231cf3278947a3b0f4dd349920c
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Earthbound/CaveBeginning.unity
+    guid: ed90493bd31c8bd4d881466c15a61352
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Earthbound/Cave_PrePR_0.unity
+    guid: 24322e2b0ce6e6148b1562e47f3174c8
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Earthbound/Cave_PrePR_1.unity
+    guid: 98a0e295407bdae4b9b99c4913a1ffe5
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Earthbound/PeacefulRestValley.unity
+    guid: a37fa15cf82ef984e8aae0575411ef82
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Earthbound/Twoson.unity
+    guid: 560be7d73e2be444d8072d7146969579
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Earthbound/CoilSnakeCave.unity
+    guid: 953275b6c63739749a515dea6bd71d14
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Earthbound/HHVillage.unity
+    guid: 84821bef5ac41f146acd065de5d5a7e2
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Earthbound/CaveToPaula.unity
+    guid: d88bd1a174c3f0946887cd395a0cb0fe
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Earthbound/PRVCabin.unity
+    guid: 2248bd0f457b4764f89bc223c73b192d
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Earthbound/HHHospital.unity
+    guid: 4d9e2f2e7ba67854f992e54057b587e6
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Earthbound/HHHQ_0.unity
+    guid: bdff966a772f6fa4488de29ee551b9f7
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Earthbound/HHHQ_1.unity
+    guid: f156612048d3c9349a33a0545a3f622b
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Earthbound/HHHQ_2.unity
+    guid: f08e24a39e0250743b921fb24925e500
+  - enabled: 1
+    path: Assets/Scenes/Overworld/LOSTCORE/Early/LCHM_0_Void.unity
+    guid: dcdb0e15d6ea4674f83db84071c8afb5
+  - enabled: 1
+    path: Assets/Scenes/Overworld/LOSTCORE/Early/LCHM_1_Entrance.unity
+    guid: 5e981020a6b7d7a458a71e26f593d4ad
+  - enabled: 1
+    path: Assets/Scenes/Overworld/LOSTCORE/Early/LCHM_2_Pit.unity
+    guid: 4fbde79610f4c3a4aa2b7505a1059faf
+  - enabled: 1
+    path: Assets/Scenes/Overworld/LOSTCORE/Early/LCHM_3_End.unity
+    guid: df580af586a553142aa2774331ac89bd
+  - enabled: 1
+    path: Assets/Scenes/Overworld/LOSTCORE/Early/LCHM_4_Hall.unity
+    guid: 93935d9fca4a4b44ca5432a1eb180df2
+  - enabled: 1
+    path: Assets/Scenes/Overworld/LOSTCORE/Early/GasterRoomHM_Preroom.unity
+    guid: 0e64b16d6d321e74c975d4fd7dc508ac
+  - enabled: 1
+    path: Assets/Scenes/Overworld/LOSTCORE/Early/GasterRoomHM.unity
+    guid: 218ea00c86136674c8d68d96430d716b
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Earthbound/LSCave.unity
+    guid: 06389ac476339264fa5ce2fa7970e12f
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Earthbound/LilliputSteps.unity
+    guid: d5423354499045b47a48506fe038247d
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_0_door.unity
+    guid: 1a7b80b18d7e5a84a95baae4cbc63dca
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_1_Hall.unity
+    guid: 4509059082895d94e8acdec4fef4500a
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_2_Crossroads.unity
+    guid: d734f5b088427a14cbc73a74a08cb930
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_2a_Fishing.unity
+    guid: e5a6e69f1df7cc54c967887fcb1159a5
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_3_Cardboard.unity
+    guid: f7f81ad1097258b4fbddc43f1b42ee45
+  - enabled: 1
+    path: Assets/Scenes/FloweyScene.unity
+    guid: d86240fecb5edca4090eafff81155058
+  - enabled: 1
+    path: Assets/Scenes/BunnyCheck.unity
+    guid: e4e7ce30bf2bc054abbcee498e841d71
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_4_Doggo.unity
+    guid: 49e8c1f5f896a7a4aa32abb9374e895c
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_5_Directions.unity
+    guid: bc352e39f4577ad4bb480976be7b4ef2
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_5a_Snowman.unity
+    guid: cdc49387fbbc9484f83cf3b7568276ec
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_6_ElectricMaze.unity
+    guid: 3c326384ea38522489912f2e5c6b46c2
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_7_ Balls.unity
+    guid: 38514fccd3ce10b47a653b9adaa3daad
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_7a_DogMarriage.unity
+    guid: cbd1bf060e34bda4ab169600018e55d6
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_8_Letter.unity
+    guid: 9b84acb6de31ed1469eca8128da65245
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_9_Spaghetti.unity
+    guid: 97eb087a8b8dc3947bf32f324ff60326
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_10_Maze.unity
+    guid: 44c2a3d4bb78f834c8a91eed774efe1b
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_10a_BunHouse.unity
+    guid: d7edc82e93f04ea4f970e51c98a70176
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_10b_BunRooms.unity
+    guid: d969d77bef198514a897cd2abf2ea190
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_10c_Cliff.unity
+    guid: 9d4720248b8704444b45d908a06c8ba9
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_11_XOSmall.unity
+    guid: 1ff23badfefbefd41a549a03b48d7073
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_11a_SnowPuzzleBlocked.unity
+    guid: c157420ced6659540a98ceab7df6c230
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_12_XOPuzzle.unity
+    guid: 5fe0b0eb694d60443998b3583dc5bcf3
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_13_TileMaze.unity
+    guid: c83406c153eb6734ab8a3d17e9b0f1a3
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_14_LesserDog.unity
+    guid: 79df93c2064d07b44b299efe30191589
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_15_IceXO.unity
+    guid: 63fe4834faa6bb849b356002db950a80
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_15a_IceFall.unity
+    guid: f08fa2ad1790b4f4d93aac058f0c1f1b
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_15b_Gyftrot.unity
+    guid: 65ddb23e1d218a347a833dc3c06b9742
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_15c_SecretEntrance.unity
+    guid: d05788241f9ffda4bab50921e8a17402
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/UF_Secret.unity
+    guid: cc55a7eea5c96d8479101decc307dc2b
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_5b_Snowman_Gaster.unity
+    guid: 0da868ffd7bc39540a5f8bead2bd147c
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_10d_FunnyGaster.unity
+    guid: 386a8b757abfb304fb578c4837c51bfb
+  - enabled: 1
+    path: Assets/Scenes/MarioBros/MBTitleScreen.unity
+    guid: 465288e02dc29e24e884f1d10adb8c84
+  - enabled: 1
+    path: Assets/Scenes/MarioBros/MBClassicStage.unity
+    guid: 6001a409413b36b4ab1024400b04efe7
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_16_Greater.unity
+    guid: 9f05ca73909f73c429bcfe896b2a1b8d
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_17_Bridge.unity
+    guid: 0af9488357b709d438cee0e5c1592b9e
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_18_UnderBridge.unity
+    guid: b7e36c49724e22a49bec78d26f6230aa
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_19_ToCabin.unity
+    guid: f3197ca506c89134da714067942f5043
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Underfell/SnowUF_20_Cabin.unity
+    guid: 2bc607bb66b80cb47a2dba60de0cc840
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/SnowUT_3_Bridge.unity
+    guid: a534f499f600c9d4689998777d1fc79f
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/SnowUT_4_Town1.unity
+    guid: a954cf023852115418814ec7e61c5733
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/SnowUT_5_Inn.unity
+    guid: dd0fc911e526c144095186c2ed4c49a0
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/SnowUT_4a_Town2.unity
+    guid: 81ab275b238403c44b4677cf0b3cd2e0
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/SnowUT_4b_River.unity
+    guid: c0193f3dfa06d194980b3b64d5a628aa
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/SnowUT_6_Grillbys.unity
+    guid: 2a8cb72e2990b964e9636d20f977ad03
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/SnowUT_7_Library.unity
+    guid: 87c5da5fc0713b643820c22d5a96eb7b
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/SnowUT_8_SansWorkshop.unity
+    guid: 5154d01d26163474d8c71afa0c5f6d68
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/SnowUT_5a_Inn2F.unity
+    guid: 569e999689cc54e45b58977f3ca2906e
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/SnowUT_9_ToWaterfall.unity
+    guid: 3b5006131315c49469bfcdda8c722e55
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Waterfall_0_Entrance.unity
+    guid: 464abc4e97eb7d543a7751e32e619d49
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Waterfall_1_SansRoom.unity
+    guid: d877a6211671a3a47baa1379e72b637e
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Waterfall_2_Rocks.unity
+    guid: 7dd9334c70e4d8a45893a287fb43f461
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Waterfall_2a_Tutu_Old.unity
+    guid: c7088152045972747b50f87596c064c5
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Waterfall_3_Undyne.unity
+    guid: 0ee3ba03ebd2c234c89da13f948edb9a
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Waterfall_4_NotPuzzle.unity
+    guid: 74692e995b22cd34c97cbaf4b28b1734
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Waterfall_5_YesPuzzle.unity
+    guid: 2914ea43b73b1fc44b0f61776e66bb50
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Waterfall_6_FakeWall.unity
+    guid: 64de714e7803f0c46a587fa6968265dc
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: be2901afe5daaa14aaeb6a5ac7fb5235
+  - enabled: 1
+    path: Assets/Scenes/GScene.unity
+    guid: 55bc9e979662a78429d3a777603fe1c1
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Undertale/Waterfall_2a_Tutu.unity
+    guid: 305dba156da74f842bf075e14e4b1eab
+  - enabled: 1
+    path: Assets/Scenes/HardModeCredits.unity
+    guid: 357371845385ef046ba2b31f9302579e
+  m_configObjects: {}

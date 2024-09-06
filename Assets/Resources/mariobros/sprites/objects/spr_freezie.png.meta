@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 575b3c6d43ccc2f489d47222ddf99b1d
+timeCreated: 1725639467
+licenseType: Free
+TextureImporter:
+  serializedVersion: 9
+  fileIDToRecycleName:
+    21300000: spr_freezie_0
+    21300002: spr_freezie_1
+    21300004: spr_freezie_2
+    21300006: spr_freezie_3
+    21300008: spr_freezie_4
+    21300010: spr_freezie_5
+    21300012: spr_freezie_6
+    21300014: spr_freezie_7
+    21300016: spr_freezie_8
+    21300018: spr_freezie_9
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_freezie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -1, y: 2}
+        - {x: -6, y: -4}
+        - {x: -8, y: -7}
+        - {x: -8, y: -14}
+        - {x: -7.0000005, y: -16}
+        - {x: 7.0000005, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: -6}
+        - {x: 4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ef46ad43064ee28288693ad74473a8
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_freezie_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -1, y: 2}
+        - {x: -6, y: -4}
+        - {x: -8, y: -7}
+        - {x: -8, y: -14}
+        - {x: -7.0000005, y: -16}
+        - {x: 7.0000005, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: -6}
+        - {x: 4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c70bc3434243c89f498cfef7511855
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_freezie_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -1, y: 2}
+        - {x: -6, y: -4}
+        - {x: -8, y: -7}
+        - {x: -8, y: -14}
+        - {x: -7.0000005, y: -16}
+        - {x: 7.0000005, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: -6}
+        - {x: 4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2d44c7d72845f18f867b509c7494bd
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_freezie_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -1, y: 2}
+        - {x: -6, y: -4}
+        - {x: -8, y: -7}
+        - {x: -8, y: -14}
+        - {x: -7.0000005, y: -16}
+        - {x: 7.0000005, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: -6}
+        - {x: 4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adc723ec23d456681992500a4200f77
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_freezie_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -1, y: 2}
+        - {x: -6, y: -4}
+        - {x: -8, y: -7}
+        - {x: -8, y: -14}
+        - {x: -7.0000005, y: -16}
+        - {x: 7.0000005, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: -6}
+        - {x: 4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2e1e1404d34a7e93d721895b60e4b7
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_freezie_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -6, y: 3}
+        - {x: -9, y: -5}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: -9}
+        - {x: 6, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f609e291b61c418795db8195a1a3cbb5
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_freezie_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -5, y: 3}
+        - {x: -10, y: 2}
+        - {x: -10, y: -14}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 2}
+        - {x: 9, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a2257d84e1420d8555dc9aac9c3d45
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_freezie_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -10, y: 1}
+        - {x: -10, y: -14}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 1}
+        - {x: 7.0000005, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d180ce600f784253935e69265a146d04
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_freezie_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 15.999999}
+        - {x: 16, y: 15.999999}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -12, y: -5.9999995}
+        - {x: -14.000001, y: -9}
+        - {x: -14.000001, y: -15}
+        - {x: -13, y: -16}
+        - {x: -2, y: -16}
+        - {x: -2, y: -7}
+        - {x: -4, y: -5.9999995}
+      - - {x: 4, y: -5.9999995}
+        - {x: 1, y: -8}
+        - {x: 1, y: -15}
+        - {x: 2, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: -14}
+        - {x: 11, y: -5.9999995}
+      - - {x: -12, y: 9.536743E-07}
+        - {x: -9, y: -2}
+        - {x: -6, y: -2}
+        - {x: -1, y: 2}
+        - {x: -1, y: 9.999999}
+        - {x: -9, y: 9.999999}
+        - {x: -12, y: 4.999999}
+      - - {x: 2, y: 3.000001}
+        - {x: 6, y: -2}
+        - {x: 13, y: -2}
+        - {x: 13, y: 3.000001}
+        - {x: 10, y: 9.999999}
+        - {x: 5, y: 9.999999}
+        - {x: 3, y: 7.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d573255469c424e9916bfd96a760ae4
+      vertices:
+      - {x: 0, y: 44.8}
+      - {x: 32, y: 44.8}
+      - {x: 0, y: 12.8}
+      - {x: 32, y: 12.8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_freezie_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -15, y: -6}
+        - {x: -16, y: -8}
+        - {x: -16, y: -16}
+        - {x: -6, y: -16}
+        - {x: -6, y: -13}
+        - {x: -8, y: -6}
+      - - {x: 7.0000005, y: -7}
+        - {x: 6, y: -10}
+        - {x: 7.0000005, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -7}
+      - - {x: 9, y: 6.000001}
+        - {x: 16, y: 6.000001}
+        - {x: 16, y: 16}
+        - {x: 7.0000005, y: 16}
+        - {x: 7.0000005, y: 7}
+      - - {x: -16, y: 16}
+        - {x: -16, y: 8}
+        - {x: -14.000001, y: 7}
+        - {x: -8, y: 7}
+        - {x: -6, y: 10}
+        - {x: -6, y: 14}
+        - {x: -8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f397772aed724d62ab3def5a073e105a
+      vertices:
+      - {x: 0, y: 40}
+      - {x: 32, y: 40}
+      - {x: 0, y: 8}
+      - {x: 32, y: 8}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+  spritePackingTag:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

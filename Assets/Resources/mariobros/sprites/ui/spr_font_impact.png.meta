@@ -1,0 +1,1986 @@
+fileFormatVersion: 2
+guid: f5a1b5fb48a7f8f4889e9fb5a56232f2
+timeCreated: 1725639466
+licenseType: Free
+TextureImporter:
+  serializedVersion: 9
+  fileIDToRecycleName:
+    21300000: spr_font_impact_0
+    21300002: spr_font_impact_1
+    21300004: spr_font_impact_2
+    21300006: spr_font_impact_3
+    21300008: spr_font_impact_4
+    21300010: spr_font_impact_5
+    21300012: spr_font_impact_6
+    21300014: spr_font_impact_7
+    21300016: spr_font_impact_8
+    21300018: spr_font_impact_9
+    21300020: spr_font_impact_10
+    21300022: spr_font_impact_11
+    21300024: spr_font_impact_12
+    21300026: spr_font_impact_13
+    21300028: spr_font_impact_14
+    21300030: spr_font_impact_15
+    21300032: spr_font_impact_16
+    21300034: spr_font_impact_17
+    21300036: spr_font_impact_18
+    21300038: spr_font_impact_19
+    21300040: spr_font_impact_20
+    21300042: spr_font_impact_21
+    21300044: spr_font_impact_22
+    21300046: spr_font_impact_23
+    21300048: spr_font_impact_24
+    21300050: spr_font_impact_25
+    21300052: spr_font_impact_26
+    21300054: spr_font_impact_27
+    21300056: spr_font_impact_28
+    21300058: spr_font_impact_29
+    21300060: spr_font_impact_30
+    21300062: spr_font_impact_31
+    21300064: spr_font_impact_32
+    21300066: spr_font_impact_33
+    21300068: spr_font_impact_34
+    21300070: spr_font_impact_35
+    21300072: spr_font_impact_36
+    21300074: spr_font_impact_37
+    21300076: spr_font_impact_38
+    21300078: spr_font_impact_39
+    21300080: spr_font_impact_40
+    21300082: spr_font_impact_41
+    21300084: spr_font_impact_42
+    21300086: spr_font_impact_43
+    21300088: spr_font_impact_44
+    21300090: spr_font_impact_45
+    21300092: spr_font_impact_46
+    21300094: spr_font_impact_47
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_font_impact_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f494c5a8e27b42edb11b975d83161cd0
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3438cc74f5f544f894cd628736ad096d
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c8220fa0394039bf8aaa1541b4967a
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f279b6fc61464e55af0412b720c6d2d6
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b82810db9e4d96abe0b2a3a867de89
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -4, y: -6}
+        - {x: 2, y: -6}
+        - {x: 4, y: -4}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b69632e15084a9a860d8a3fb2a02318
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -6}
+        - {x: -4.5, y: 6}
+        - {x: 4.5, y: 6}
+        - {x: 4.5, y: -6}
+      physicsShape:
+      - - {x: -4.5, y: 6}
+        - {x: -4.5, y: -6}
+        - {x: 4.5, y: -6}
+        - {x: 4.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912842d0924d436bb6d4768739446f7c
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 9, y: 12}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e1f69802f9482990ed12a880a78706
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 4
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -6}
+        - {x: -2, y: 6}
+        - {x: 2, y: 6}
+        - {x: 2, y: -6}
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be780778e7ce4e578bb12af5c18ba333
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 4, y: 12}
+      - {x: 0, y: 0}
+      - {x: 4, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -4, y: 3}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bd18f3c4da4240a153d5ea04316d11
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f392779e3d1049afa3da3f0f04f06ab0
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 1}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249ef1c63b9d4a3a8219791405e2e9c1
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 10
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -6}
+        - {x: -5, y: 6}
+        - {x: 5, y: 6}
+        - {x: 5, y: -6}
+      physicsShape:
+      - - {x: -5, y: 6}
+        - {x: -5, y: -6}
+        - {x: 5, y: -6}
+        - {x: 5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fbafc18010490d9e62e72b5f231771
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 10, y: 12}
+      - {x: 0, y: 0}
+      - {x: 10, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5382534b34a0403e8bf778237197ecd8
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f428ae6db9647f69f4d78878bcf1600
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -4, y: -6}
+        - {x: 2, y: -6}
+        - {x: 4, y: -4}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8d18a271f64333b3467cab4e468be9
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -6}
+        - {x: -4.5, y: 6}
+        - {x: 4.5, y: 6}
+        - {x: 4.5, y: -6}
+      physicsShape:
+      - - {x: -4.5, y: 6}
+        - {x: -4.5, y: -6}
+        - {x: 4.5, y: -6}
+        - {x: 4.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8774faf7c84b82bcd9db72b6c075df
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 9, y: 12}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f295ff272e7943a38d269b16696e3f79
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7966ba1f5944a49af3ac2be5c2737bc
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081bdbfc467c46eaa3839795860d25d9
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -6}
+        - {x: -4, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -6}
+      physicsShape:
+      - - {x: -4, y: 6}
+        - {x: -4, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969dd75f6f3a41868165018feef6746d
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 8, y: 12}
+      - {x: 0, y: 0}
+      - {x: 8, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -6}
+        - {x: -4.5, y: 6}
+        - {x: 4.5, y: 6}
+        - {x: 4.5, y: -6}
+      physicsShape:
+      - - {x: -4.5, y: 6}
+        - {x: -4.5, y: -6}
+        - {x: 4.5, y: -6}
+        - {x: 4.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1ecf55486342e0be5a110cce43394f
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 9, y: 12}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -6}
+        - {x: -6, y: 6}
+        - {x: 6, y: 6}
+        - {x: 6, y: -6}
+      physicsShape:
+      - - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+        - {x: 6, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3414f0abf6d4189876c523c004bb59f
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 12, y: 12}
+      - {x: 0, y: 0}
+      - {x: 12, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 10
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -6}
+        - {x: -5, y: 6}
+        - {x: 5, y: 6}
+        - {x: 5, y: -6}
+      physicsShape:
+      - - {x: -5, y: 6}
+        - {x: -5, y: -6}
+        - {x: 5, y: -6}
+        - {x: 5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23c4479e173417997808c2e1f0136e1
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 10, y: 12}
+      - {x: 0, y: 0}
+      - {x: 10, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_24
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 10
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -6}
+        - {x: -5, y: 6}
+        - {x: 5, y: 6}
+        - {x: 5, y: -6}
+      physicsShape:
+      - - {x: -5, y: 6}
+        - {x: -5, y: -6}
+        - {x: 4, y: -6}
+        - {x: 5, y: -2}
+        - {x: 5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edf960f52354bed8665fc0eef9280aa
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 10, y: 12}
+      - {x: 0, y: 0}
+      - {x: 10, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -6}
+        - {x: -4.5, y: 6}
+        - {x: 4.5, y: 6}
+        - {x: 4.5, y: -6}
+      physicsShape:
+      - - {x: -4.5, y: 6}
+        - {x: -4.5, y: -6}
+        - {x: 4.5, y: -6}
+        - {x: 4.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587bc270bdc04d3389b3ae0d15e0b0a9
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 9, y: 12}
+      - {x: 0, y: 0}
+      - {x: 9, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cba9e815f9a4e0cbf9395dcf9ec63c1
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_27
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710b4cdc5dec494db0b3dc099eec9780
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f47bc5e3f048aab9c6edcc42d5cb65
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_29
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e884d2bf464eaf9c94a43d53afe9e6
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_30
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163a3bae19904603bacfe2f743cb9d84
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb4db01dee74e749cad1be0ed781cd9
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c770c46ee439447dbe0602daf5eab513
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_33
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033736d97a51466b9792741e63a0e5d3
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_34
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040fe46bcfd74672b8be24974caef665
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_35
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80963dc44e09485fbc2e019d147d6353
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_36
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7b81ba28c14edc9165ecf1239dcd63
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_37
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4214973adff147eda69d539860392451
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_38
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc450725cda434baebb96fb2cd21f51
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ea31a315f1413c894d0cf9f1f02e27
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_40
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 7
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -6}
+        - {x: -3.5, y: 6}
+        - {x: 3.5, y: 6}
+        - {x: 3.5, y: -6}
+      physicsShape:
+      - - {x: -2.5, y: -2}
+        - {x: -2.5, y: -6}
+        - {x: 3.5000002, y: -6}
+        - {x: 3.5000002, y: 0}
+        - {x: -0.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5726ea099b3d44b28ad11d2623ebb041
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 7, y: 12}
+      - {x: 0, y: 0}
+      - {x: 7, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_41
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0e7a9b271b44cbbc98f8babce0c257
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c33703bba146c5ae679b36d941d22f
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_43
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016081ae8f4449afaac372f96adbdfb7
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_44
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2015b90e5f04291a876ed07f1337808
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_45
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6eeb3ca689490190fa3463dacdb3a5
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_46
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebdf9d9a03b428aaf16233ef2fa6d06
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_font_impact_47
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 1
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -6}
+        - {x: -0.5, y: 6}
+        - {x: 0.5, y: 6}
+        - {x: 0.5, y: -6}
+      physicsShape:
+      - - {x: -0.5, y: 6}
+        - {x: -0.5, y: -6}
+        - {x: 0.5, y: -6}
+        - {x: 0.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e89123769b4b90ad048aaad3aa1b4b
+      vertices:
+      - {x: 0, y: 12}
+      - {x: 1, y: 12}
+      - {x: 0, y: 0}
+      - {x: 1, y: 0}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+  spritePackingTag:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 2721f017fc3795b4c9b0605ef83156b2
+timeCreated: 1725639468
+licenseType: Free
+TextureImporter:
+  serializedVersion: 9
+  fileIDToRecycleName:
+    21300000: spr_textbox_zelda_0
+    21300002: spr_textbox_zelda_1
+    21300004: spr_textbox_zelda_2
+    21300006: spr_textbox_zelda_3
+    21300008: spr_textbox_zelda_4
+    21300010: spr_textbox_zelda_5
+    21300012: spr_textbox_zelda_6
+    21300014: spr_textbox_zelda_7
+    21300016: spr_textbox_zelda_8
+    21300018: spr_textbox_zelda_9
+    21300020: spr_textbox_zelda_10
+    21300022: spr_textbox_zelda_11
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_textbox_zelda_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 190
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: -31}
+        - {x: -95, y: 31}
+        - {x: 95, y: 31}
+        - {x: 95, y: -31}
+      physicsShape:
+      - - {x: -95, y: 31.000002}
+        - {x: -95, y: -31.000002}
+        - {x: 95, y: -31.000002}
+        - {x: 95, y: 31.000002}
+      - - {x: -87, y: 23}
+        - {x: 87, y: 23}
+        - {x: 87, y: -23}
+        - {x: -87, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdd83f50ae74ad7bc21c11d0eed6fc7
+      vertices:
+      - {x: 190, y: 62}
+      - {x: 182, y: 54}
+      - {x: 190, y: 0}
+      - {x: 8, y: 54}
+      - {x: 0, y: 62}
+      - {x: 8, y: 8}
+      - {x: 182, y: 8}
+      - {x: 0, y: 0}
+      indices:
+      - 4
+      - 5
+      - 7
+      - 2
+      - 7
+      - 5
+      - 6
+      - 2
+      - 5
+      - 1
+      - 2
+      - 6
+      - 0
+      - 3
+      - 4
+      - 5
+      - 4
+      - 3
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_textbox_zelda_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 310
+        width: 190
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: -31}
+        - {x: -95, y: 31}
+        - {x: 95, y: 31}
+        - {x: 95, y: -31}
+      physicsShape:
+      - - {x: -95, y: 31.000002}
+        - {x: -95, y: -31.000002}
+        - {x: 95, y: -31.000002}
+        - {x: 95, y: 31.000002}
+      - - {x: -87, y: 23}
+        - {x: 87, y: 23}
+        - {x: 87, y: -23}
+        - {x: -87, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e6957130fc4e72b8b6ccaacf279385
+      vertices:
+      - {x: 190, y: 62}
+      - {x: 182, y: 54}
+      - {x: 190, y: 0}
+      - {x: 8, y: 54}
+      - {x: 0, y: 62}
+      - {x: 8, y: 8}
+      - {x: 182, y: 8}
+      - {x: 0, y: 0}
+      indices:
+      - 4
+      - 5
+      - 7
+      - 2
+      - 7
+      - 5
+      - 6
+      - 2
+      - 5
+      - 1
+      - 2
+      - 6
+      - 0
+      - 3
+      - 4
+      - 5
+      - 4
+      - 3
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_textbox_zelda_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 190
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: -31}
+        - {x: -95, y: 31}
+        - {x: 95, y: 31}
+        - {x: 95, y: -31}
+      physicsShape:
+      - - {x: -95, y: 31.000002}
+        - {x: -95, y: -31.000002}
+        - {x: 95, y: -31.000002}
+        - {x: 95, y: 31.000002}
+      - - {x: -87, y: 23}
+        - {x: 87, y: 23}
+        - {x: 87, y: -23}
+        - {x: -87, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ff2af1a3aa4ae6b56a88a19dde39b0
+      vertices:
+      - {x: 190, y: 62}
+      - {x: 182, y: 54}
+      - {x: 190, y: 0}
+      - {x: 8, y: 54}
+      - {x: 0, y: 62}
+      - {x: 8, y: 8}
+      - {x: 182, y: 8}
+      - {x: 0, y: 0}
+      indices:
+      - 4
+      - 5
+      - 7
+      - 2
+      - 7
+      - 5
+      - 6
+      - 2
+      - 5
+      - 1
+      - 2
+      - 6
+      - 0
+      - 3
+      - 4
+      - 5
+      - 4
+      - 3
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_textbox_zelda_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 248
+        width: 190
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: -31}
+        - {x: -95, y: 31}
+        - {x: 95, y: 31}
+        - {x: 95, y: -31}
+      physicsShape:
+      - - {x: -95, y: 31.000002}
+        - {x: -95, y: -31.000002}
+        - {x: 95, y: -31.000002}
+        - {x: 95, y: 31.000002}
+      - - {x: -87, y: 23}
+        - {x: 87, y: 23}
+        - {x: 87, y: -23}
+        - {x: -87, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306cae36c73f4487be71691e85e5bc9c
+      vertices:
+      - {x: 190, y: 62}
+      - {x: 182, y: 54}
+      - {x: 190, y: 0}
+      - {x: 8, y: 54}
+      - {x: 0, y: 62}
+      - {x: 8, y: 8}
+      - {x: 182, y: 8}
+      - {x: 0, y: 0}
+      indices:
+      - 4
+      - 5
+      - 7
+      - 2
+      - 7
+      - 5
+      - 6
+      - 2
+      - 5
+      - 1
+      - 2
+      - 6
+      - 0
+      - 3
+      - 4
+      - 5
+      - 4
+      - 3
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_textbox_zelda_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 190
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: -31}
+        - {x: -95, y: 31}
+        - {x: 95, y: 31}
+        - {x: 95, y: -31}
+      physicsShape:
+      - - {x: -95, y: 31.000002}
+        - {x: -95, y: -31.000002}
+        - {x: 95, y: -31.000002}
+        - {x: 95, y: 31.000002}
+      - - {x: -87, y: 23}
+        - {x: 87, y: 23}
+        - {x: 87, y: -23}
+        - {x: -87, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098c6288918043ffbec54e0f9c01e39b
+      vertices:
+      - {x: 190, y: 62}
+      - {x: 182, y: 54}
+      - {x: 190, y: 0}
+      - {x: 8, y: 54}
+      - {x: 0, y: 62}
+      - {x: 8, y: 8}
+      - {x: 182, y: 8}
+      - {x: 0, y: 0}
+      indices:
+      - 4
+      - 5
+      - 7
+      - 2
+      - 7
+      - 5
+      - 6
+      - 2
+      - 5
+      - 1
+      - 2
+      - 6
+      - 0
+      - 3
+      - 4
+      - 5
+      - 4
+      - 3
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_textbox_zelda_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 186
+        width: 190
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: -31}
+        - {x: -95, y: 31}
+        - {x: 95, y: 31}
+        - {x: 95, y: -31}
+      physicsShape:
+      - - {x: -95, y: 31.000002}
+        - {x: -95, y: -31.000002}
+        - {x: 95, y: -31.000002}
+        - {x: 95, y: 31.000002}
+      - - {x: -87, y: 23}
+        - {x: 87, y: 23}
+        - {x: 87, y: -23}
+        - {x: -87, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1714da27595444b998ff309b3acc5b29
+      vertices:
+      - {x: 190, y: 62}
+      - {x: 182, y: 54}
+      - {x: 190, y: 0}
+      - {x: 8, y: 54}
+      - {x: 0, y: 62}
+      - {x: 8, y: 8}
+      - {x: 182, y: 8}
+      - {x: 0, y: 0}
+      indices:
+      - 4
+      - 5
+      - 7
+      - 2
+      - 7
+      - 5
+      - 6
+      - 2
+      - 5
+      - 1
+      - 2
+      - 6
+      - 0
+      - 3
+      - 4
+      - 5
+      - 4
+      - 3
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_textbox_zelda_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 190
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: -31}
+        - {x: -95, y: 31}
+        - {x: 95, y: 31}
+        - {x: 95, y: -31}
+      physicsShape:
+      - - {x: -95, y: 31.000002}
+        - {x: -95, y: -31.000002}
+        - {x: 95, y: -31.000002}
+        - {x: 95, y: 31.000002}
+      - - {x: -87, y: 23}
+        - {x: 87, y: 23}
+        - {x: 87, y: -23}
+        - {x: -87, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d0062c5fcf47258fab105a8ffd9737
+      vertices:
+      - {x: 190, y: 62}
+      - {x: 182, y: 54}
+      - {x: 190, y: 0}
+      - {x: 8, y: 54}
+      - {x: 0, y: 62}
+      - {x: 8, y: 8}
+      - {x: 182, y: 8}
+      - {x: 0, y: 0}
+      indices:
+      - 4
+      - 5
+      - 7
+      - 2
+      - 7
+      - 5
+      - 6
+      - 2
+      - 5
+      - 1
+      - 2
+      - 6
+      - 0
+      - 3
+      - 4
+      - 5
+      - 4
+      - 3
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_textbox_zelda_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 124
+        width: 190
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: -31}
+        - {x: -95, y: 31}
+        - {x: 95, y: 31}
+        - {x: 95, y: -31}
+      physicsShape:
+      - - {x: -95, y: 31.000002}
+        - {x: -95, y: -31.000002}
+        - {x: 95, y: -31.000002}
+        - {x: 95, y: 31.000002}
+      - - {x: -87, y: 23}
+        - {x: 87, y: 23}
+        - {x: 87, y: -23}
+        - {x: -87, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772bbfbbbaba416fa6cb638980674436
+      vertices:
+      - {x: 190, y: 62}
+      - {x: 182, y: 54}
+      - {x: 190, y: 0}
+      - {x: 8, y: 54}
+      - {x: 0, y: 62}
+      - {x: 8, y: 8}
+      - {x: 182, y: 8}
+      - {x: 0, y: 0}
+      indices:
+      - 4
+      - 5
+      - 7
+      - 2
+      - 7
+      - 5
+      - 6
+      - 2
+      - 5
+      - 1
+      - 2
+      - 6
+      - 0
+      - 3
+      - 4
+      - 5
+      - 4
+      - 3
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_textbox_zelda_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 190
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: -31}
+        - {x: -95, y: 31}
+        - {x: 95, y: 31}
+        - {x: 95, y: -31}
+      physicsShape:
+      - - {x: -95, y: 31.000002}
+        - {x: -95, y: -31.000002}
+        - {x: 95, y: -31.000002}
+        - {x: 95, y: 31.000002}
+      - - {x: -87, y: 23}
+        - {x: 87, y: 23}
+        - {x: 87, y: -23}
+        - {x: -87, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a257d9bb96437891ea640b1ce21b6d
+      vertices:
+      - {x: 190, y: 62}
+      - {x: 182, y: 54}
+      - {x: 190, y: 0}
+      - {x: 8, y: 54}
+      - {x: 0, y: 62}
+      - {x: 8, y: 8}
+      - {x: 182, y: 8}
+      - {x: 0, y: 0}
+      indices:
+      - 4
+      - 5
+      - 7
+      - 2
+      - 7
+      - 5
+      - 6
+      - 2
+      - 5
+      - 1
+      - 2
+      - 6
+      - 0
+      - 3
+      - 4
+      - 5
+      - 4
+      - 3
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_textbox_zelda_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 62
+        width: 190
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: -31}
+        - {x: -95, y: 31}
+        - {x: 95, y: 31}
+        - {x: 95, y: -31}
+      physicsShape:
+      - - {x: -95, y: 31.000002}
+        - {x: -95, y: -31.000002}
+        - {x: 95, y: -31.000002}
+        - {x: 95, y: 31.000002}
+      - - {x: -87, y: 23}
+        - {x: 87, y: 23}
+        - {x: 87, y: -23}
+        - {x: -87, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dee13dcaa6a41188a72f75213117516
+      vertices:
+      - {x: 190, y: 62}
+      - {x: 182, y: 54}
+      - {x: 190, y: 0}
+      - {x: 8, y: 54}
+      - {x: 0, y: 62}
+      - {x: 8, y: 8}
+      - {x: 182, y: 8}
+      - {x: 0, y: 0}
+      indices:
+      - 4
+      - 5
+      - 7
+      - 2
+      - 7
+      - 5
+      - 6
+      - 2
+      - 5
+      - 1
+      - 2
+      - 6
+      - 0
+      - 3
+      - 4
+      - 5
+      - 4
+      - 3
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_textbox_zelda_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 190
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: -31}
+        - {x: -95, y: 31}
+        - {x: 95, y: 31}
+        - {x: 95, y: -31}
+      physicsShape:
+      - - {x: -95, y: 31.000002}
+        - {x: -95, y: -31.000002}
+        - {x: 95, y: -31.000002}
+        - {x: 95, y: 31.000002}
+      - - {x: -87, y: 23}
+        - {x: 87, y: 23}
+        - {x: 87, y: -23}
+        - {x: -87, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966e2f2611a94a0cb3e3c43c00f43196
+      vertices:
+      - {x: 190, y: 62}
+      - {x: 182, y: 54}
+      - {x: 190, y: 0}
+      - {x: 8, y: 54}
+      - {x: 0, y: 62}
+      - {x: 8, y: 8}
+      - {x: 182, y: 8}
+      - {x: 0, y: 0}
+      indices:
+      - 4
+      - 5
+      - 7
+      - 2
+      - 7
+      - 5
+      - 6
+      - 2
+      - 5
+      - 1
+      - 2
+      - 6
+      - 0
+      - 3
+      - 4
+      - 5
+      - 4
+      - 3
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_textbox_zelda_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 190
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95, y: -31}
+        - {x: -95, y: 31}
+        - {x: 95, y: 31}
+        - {x: 95, y: -31}
+      physicsShape:
+      - - {x: -95, y: 31.000002}
+        - {x: -95, y: -31.000002}
+        - {x: 95, y: -31.000002}
+        - {x: 95, y: 31.000002}
+      - - {x: -87, y: 23}
+        - {x: 87, y: 23}
+        - {x: 87, y: -23}
+        - {x: -87, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b28db1b47d49fb992126c8ed5d1a6c
+      vertices:
+      - {x: 190, y: 62}
+      - {x: 182, y: 54}
+      - {x: 190, y: 0}
+      - {x: 8, y: 54}
+      - {x: 0, y: 62}
+      - {x: 8, y: 8}
+      - {x: 182, y: 8}
+      - {x: 0, y: 0}
+      indices:
+      - 4
+      - 5
+      - 7
+      - 2
+      - 7
+      - 5
+      - 6
+      - 2
+      - 5
+      - 1
+      - 2
+      - 6
+      - 0
+      - 3
+      - 4
+      - 5
+      - 4
+      - 3
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+  spritePackingTag:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

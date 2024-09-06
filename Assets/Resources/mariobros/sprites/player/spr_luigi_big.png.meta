@@ -1,0 +1,1133 @@
+fileFormatVersion: 2
+guid: 41baf1f1cec08e542aea85ffe762a0dd
+timeCreated: 1725639465
+licenseType: Free
+TextureImporter:
+  serializedVersion: 9
+  fileIDToRecycleName:
+    21300000: spr_luigi_big_0
+    21300002: spr_luigi_big_1
+    21300004: spr_luigi_big_2
+    21300006: spr_luigi_big_3
+    21300008: spr_luigi_big_4
+    21300010: spr_luigi_big_5
+    21300012: spr_luigi_big_6
+    21300014: spr_luigi_big_7
+    21300016: spr_luigi_big_8
+    21300018: spr_luigi_big_9
+    21300020: spr_luigi_big_10
+    21300022: spr_luigi_big_11
+    21300024: spr_luigi_big_12
+    21300026: spr_luigi_big_13
+    21300028: spr_luigi_big_14
+    21300030: spr_luigi_big_15
+    21300032: spr_luigi_big_16
+    21300034: spr_luigi_big_17
+    21300036: spr_luigi_big_18
+    21300038: spr_luigi_big_19
+    21300040: spr_luigi_big_20
+    21300042: spr_luigi_big_21
+    21300044: spr_luigi_big_22
+    21300046: spr_luigi_big_23
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_luigi_big_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -7.0000005, y: 16}
+        - {x: -8, y: 12.000002}
+        - {x: -8, y: -12}
+        - {x: -5, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -10}
+        - {x: 10, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc67513daea842f2a13ed73bbff6a278
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -4, y: 16}
+        - {x: -8, y: 11}
+        - {x: -8, y: -14}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -15}
+        - {x: 12, y: -13}
+        - {x: 12, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39659f959b9f4cc58eb174eae210b93e
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -9, y: 10}
+        - {x: -9, y: -15}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -13}
+        - {x: 11, y: 8}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55653add4b74b01a7fc682bebe89eb5
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -7.0000005, y: 16}
+        - {x: -8, y: 12.000002}
+        - {x: -8, y: -12}
+        - {x: -5, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -10}
+        - {x: 10, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867f64f65d5a4ffc839f36eed4de9182
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -13}
+        - {x: -7.0000005, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 5}
+        - {x: 10, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff4f1393b8d448080727b56b1cec020
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: -7}
+        - {x: 9, y: -1.999999}
+        - {x: 7.0000005, y: 2}
+        - {x: -5, y: 2}
+        - {x: -10, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb05710aa8e4bcb8cd62a9a89ec1a84
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -9, y: 11}
+        - {x: -9, y: -9}
+        - {x: -5, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 15.000002}
+        - {x: 7.0000005, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f05dba5d694caf8f945e002b251052
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -4, y: 16}
+        - {x: -8, y: 11}
+        - {x: -8, y: -14}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -15}
+        - {x: 12, y: -13}
+        - {x: 12, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab0b9008eec49789dee1c9deec77a1e
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -11, y: 16}
+        - {x: -14.000001, y: 14}
+        - {x: -16, y: 10}
+        - {x: -16, y: 0}
+        - {x: -6, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -5}
+        - {x: 16, y: 11}
+        - {x: 12, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34a9b648fae432eb171301c4928c4fa
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -6, y: 13}
+        - {x: -8, y: 11}
+        - {x: -9, y: 7}
+        - {x: -15, y: -3}
+        - {x: -15, y: -9}
+        - {x: -13, y: -15}
+        - {x: 13, y: -15}
+        - {x: 15, y: -12}
+        - {x: 15, y: 3}
+        - {x: 6, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3135525afc954911b15b7d0b8e821d86
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -16, y: -9}
+        - {x: 16, y: -9}
+        - {x: 16, y: 2}
+        - {x: 8, y: 10}
+        - {x: -10, y: 10}
+        - {x: -16, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c695932a9d76405e86f302fd23fd80d3
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: 7.0000005, y: 16}
+        - {x: -7.0000005, y: 16}
+        - {x: -11, y: 15.000002}
+        - {x: -15, y: 4}
+        - {x: -15, y: -8}
+        - {x: -7.0000005, y: -16}
+        - {x: 6, y: -16}
+        - {x: 15, y: -8}
+        - {x: 15, y: -1}
+        - {x: 10, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88c2cc50a584b65bb1700f55a766ced
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: 8, y: 16}
+        - {x: -5, y: 16}
+        - {x: -10, y: 9.000002}
+        - {x: -10, y: -13}
+        - {x: -7.0000005, y: -16}
+        - {x: 5, y: -16}
+        - {x: 10, y: -6}
+        - {x: 10, y: 15.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97635ecd97754c44b193b434dd407d13
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -5, y: 11}
+        - {x: -10, y: 7}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 10}
+        - {x: 7.0000005, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2978e9f333b437fb07ba74acbdbb6de
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -10, y: 9.000002}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: -5}
+        - {x: 9, y: 12.000002}
+        - {x: 5, y: 13}
+        - {x: 0, y: 15.000002}
+      - - {x: -7.0000005, y: 9.000002}
+        - {x: -4, y: 10}
+        - {x: -4, y: 13}
+        - {x: -7.0000005, y: 14}
+        - {x: -9, y: 12.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74b3226367444fb8c81b1a461aed827
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -2, y: 9.000002}
+        - {x: -9, y: 6}
+        - {x: -9, y: -14}
+        - {x: -7.0000005, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 8}
+        - {x: 6, y: 9.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137133fdd75d4c21827a123ce460a981
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -3, y: 16}
+        - {x: -9, y: 11}
+        - {x: -9, y: -6}
+        - {x: -8, y: -13}
+        - {x: -4, y: -16}
+        - {x: 7.0000005, y: -16}
+        - {x: 10, y: -5}
+        - {x: 10, y: 10}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3794341971d4c428120bbe375fc3cfd
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: 8, y: 16}
+        - {x: -5, y: 16}
+        - {x: -9, y: 14}
+        - {x: -9, y: -15}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 11, y: -11}
+        - {x: 11, y: 3}
+        - {x: 9, y: 12.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb1307564894a42b9e3bd59260782f2
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -2, y: 16}
+        - {x: -9, y: 10}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 10}
+        - {x: 7.0000005, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4738e31efcec45788bd5496cf3f96257
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -3, y: 16}
+        - {x: -9, y: 11}
+        - {x: -9, y: -6}
+        - {x: -8, y: -13}
+        - {x: -4, y: -16}
+        - {x: 7.0000005, y: -16}
+        - {x: 10, y: -5}
+        - {x: 10, y: 10}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef9f4c135824ebdad787cb83e61763f
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -5, y: 16}
+        - {x: -9, y: 9.000002}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: 13}
+        - {x: 5, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d26d20427084b7c9856f4a368d0e78b
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: -10, y: 2}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61132288737478487fb4c124c44bb74
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: 7.0000005, y: 16}
+        - {x: -5, y: 16}
+        - {x: -11, y: 13}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -13}
+        - {x: 11, y: 3}
+        - {x: 10, y: 12.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830767ee46bb454889d477fc34ae282a
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_luigi_big_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:
+      - - {x: 4, y: 16}
+        - {x: -14.000001, y: 16}
+        - {x: -14.000001, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -13}
+        - {x: 11, y: 3}
+        - {x: 10, y: 12.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432b281837ce4210b93b42f75dfc169e
+      vertices:
+      - {x: 0, y: 48}
+      - {x: 32, y: 48}
+      - {x: 0, y: 16}
+      - {x: 32, y: 16}
+      indices:
+      - 0
+      - 1
+      - 2
+      - 2
+      - 1
+      - 3
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+  spritePackingTag:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:
